@@ -1,6 +1,6 @@
 # A Hackers Guide to Layer 2: Zero Merkle Trees from Scratch
 ## Code Snippets from the Tutorial
-This repository contains the code snippets from the tutorial [https://medium.com/@carterfeldman](A Hackers Guide to Layer 2: Zero Merkle Trees from Scratch).
+This repository contains the code snippets from the tutorial [A Hackers Guide to Layer 2: Zero Merkle Trees from Scratch](https://medium.com/@carterfeldman).
 
 
 
