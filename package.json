@@ -1,0 +1,39 @@
+{
+  "name": "zero-merkle-tree-examples",
+  "version": "1.0.0",
+  "description": "Examples of Zero Merkle Trees from A Hackers Guide to Layer 2",
+  "scripts": {
+    "all": "npm run example1 && npm run example2 && npm run example3 && npm run example4 && npm run example5 && npm run example6 && npm run example7",
+    "start":"npm run all",
+    "ex1": "ts-node ./src/examples/example1.ts",
+    "example1": "ts-node ./src/examples/example1.ts",
+    "ex2": "ts-node ./src/examples/example2.ts",
+    "example2": "ts-node ./src/examples/example2.ts",
+    "ex3": "ts-node ./src/examples/example3.ts",
+    "example3": "ts-node ./src/examples/example3.ts",
+    "ex4": "ts-node ./src/examples/example4.ts",
+    "example4": "ts-node ./src/examples/example4.ts",
+    "ex5": "ts-node ./src/examples/example5.ts",
+    "example5": "ts-node ./src/examples/example5.ts",
+    "ex6": "ts-node ./src/examples/example6.ts",
+    "example6": "ts-node ./src/examples/example6.ts",
+    "ex7": "ts-node ./src/examples/example7.ts",
+    "example7": "ts-node ./src/examples/example7.ts"
+  },
+  "keywords": [
+    "zero",
+    "merkle",
+    "tree"
+  ],
+  "author": "carter",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "@types/sha.js": "^2.4.0",
+    "sha.js": "^2.4.11"
+  }
+}
